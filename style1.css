@@ -112,6 +112,7 @@ ul a{
     display: block;
     text-align: center;
     font-family: SamsungProductSans;
+    font-size: 100px;
     text-transform: uppercase;
   background-image: linear-gradient(
     -225deg,
